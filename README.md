@@ -22,3 +22,4 @@ A curated list of awesome system design, design principles & patterns, technical
 |:ferris_wheel:|**[DevOps](topics/devops/devops.md)** & <br/> **[Kubernetes, Infrastructure Automation](topics/devops/docker-kubernetes.md)** | DevOps articles, Docker, Kubenetes |
 |:hotsprings:|**[Security](topics/devops/security.md)**| OAuth, CORS, CSRF, OWASP, MITRE.|
 |:green_book:|**[Java](topics/general/java.md), [JavaScript](topics/general/javascript.md), [Python](topics/general/python.md)**| Programming concepts.|
+|:cloud:|**[IaC Best Practices](https://www.pulumi.com/blog/iac-best-practices-understanding-code-organization-stacks/)**| Recommended practices for managing infrastructure and application deployments using any programming language.|
